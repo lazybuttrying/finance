@@ -1,4 +1,3 @@
-# Workflow
-1. main_quater.ipynb
-2. profiling_main_quater.ipynb
-3. merge_fullset.ipynb
+# The Working Capital Credit Multiplier
+
+- https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13385
